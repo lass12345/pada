@@ -1,0 +1,36 @@
+#wrapper {
+    max-width: 100px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  
+  .pinpad {
+    background-color: lightgray;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    max-width: 100px;
+  }
+  
+  .display {
+    display: flex;
+    margin-bottom: 8px;
+  }
+  
+  .display input {
+    width: 100%;
+  }
+  
+  .buttons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .buttons .button {
+    width: 30%;
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+  }
