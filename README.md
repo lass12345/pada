@@ -1,18 +1,4 @@
-Welcome!
-This is a project for up skilling.
-
-We will put in practice all the knowledge about javascript we will be learning together during the weeks.
-
-The project will always be the same and we will learn how to do the same things with Vanilla JS and then with some javascript frameworks starting with Svelte.
-
-The project - Pinpad
-image
-
-The BBVA bank wants to release a new pinpad for their sucursals.
-
-The provider that makes the hardware of them, has more than 1000 pinpads ready to install in the sucursals but... they forgot some basic functionalities that the pinpads need to work properly.
-
-BBVA decided to hire us in order to develop those functionalities:
+functionalities:
 
 Write the user code and show it in the display.
 Security first! Each number clicked only will be visible for 2 seconds, then this character will return into "*"
